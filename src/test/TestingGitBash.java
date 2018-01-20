@@ -7,5 +7,6 @@ public class TestingGitBash {
         System.out.println("Master creating merge conflict");
         System.out.println("I'm setting aside a specific branch to do these changes");
         System.out.println("I want to make a git push request (say for code reviews");
+        System.out.println("Is it working in branches similar to svn??");
     }
 }

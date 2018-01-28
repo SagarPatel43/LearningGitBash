@@ -8,6 +8,7 @@ public class TestingGitBash {
         System.out.println("I'm setting aside a specific branch to do these changes");
         System.out.println("I want to make a git push request (say for code reviews");
         System.out.println("Is it working in branches similar to svn??");
+        System.out.println("Master has been changed while I was in my branch");
         System.out.println("ok now im conflicting with master since i didn't know someone changed it, but i want my changes in alongside the other change");
     }
 }

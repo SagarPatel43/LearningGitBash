@@ -12,5 +12,6 @@ public class TestingGitBash {
         System.out.println("ok now im conflicting with master since i didn't know someone changed it, but i want my changes in alongside the other change");
         System.out.println("I want to tag v1.0");
         System.out.println("I will try annotated tag v1.2");
+        System.out.println("Take me to 1.6");
     }
 }

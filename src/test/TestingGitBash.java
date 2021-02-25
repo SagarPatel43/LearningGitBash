@@ -13,5 +13,6 @@ public class TestingGitBash {
         System.out.println("I want to tag v1.0");
         System.out.println("I will try annotated tag v1.2");
         System.out.println("Take me to 1.6");
+        System.out.println("Im 2.0");
     }
 }
